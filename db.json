@@ -1,0 +1,25 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Do homework",
+      "description": "Complete math and science assignments",
+      "dueDate": "2025-08-05",
+      "completed": true
+    },
+    {
+      "id": "2",
+      "title": "Finish final project",
+      "description": "Send presentation to professor",
+      "dueDate": "2025-08-03",
+      "completed": false
+    },
+    {
+      "id": "7531",
+      "title": "Buy groceries",
+      "description": "Milk, bread, cheese",
+      "completed": false,
+      "dueDate": "2025-08-06"
+    }
+  ]
+}
